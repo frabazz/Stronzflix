@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body{
+    background: black;
+}
+
+p{
+    color: orange;
+    font-family: "Press Start 2P";
+}
+
+h3{
+    color: orange;
+    font-family: "Press Start 2P";
+    font-size: 200%;
+}
+
+.custom_container{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 4%;
+}
